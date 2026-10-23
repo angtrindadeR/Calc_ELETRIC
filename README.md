@@ -11,6 +11,7 @@ Aplicativo de apoio ao dimensionamento de instalações elétricas residenciais 
 
 ## Funcionalidades planejadas
 
+
 - Cadastro de projetos residenciais
 - Dimensionamento assistido de circuitos
 - Cálculos elétricos
